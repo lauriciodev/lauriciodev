@@ -1,6 +1,6 @@
 
 
-<img height="290em" src="https://i.pinimg.com/originals/a9/d9/4e/a9d94e824013e06d0217ff9e9d749988.gif"/>
+<img height="290em"  styles="border-radius:30em;" src="https://gifimage.net/wp-content/uploads/2018/04/programming-gif-9.gif"/>
 <!--
 <div style="display:flex;">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauriciodev&layout=compact&langs_count=7&theme=cobalt"/>
