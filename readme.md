@@ -1,4 +1,4 @@
 <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauriciodev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+      <img height="280em" src="https://github.com/lauriciodev/portifolio-react-js/blob/main/src/assets/mad.gif"/>
   
  </div>
